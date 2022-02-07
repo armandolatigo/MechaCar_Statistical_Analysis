@@ -1,3 +1,8 @@
-# ignore R_Analysis world
+# ignore R_Analysis folder
 
 /R_Analysis
+
+#ignore challenge csv files
+
+MechaCar_mpg.csv
+Suspension_Coil.csv
